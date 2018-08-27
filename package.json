@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/koriim/MyfirstCourseraProject/issues"
   },
-  "homepage": "https://github.com/koriim/MyfirstCourseraProject#readme"
+  "homepage": "https://github.com/koriim/MyfirstCourseraProject#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
